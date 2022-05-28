@@ -1,0 +1,35 @@
+1) meta <meta>
+-->tag that defines information abt our files.
+-->define the character encoding for our webpage.
+
+2) header <h1></h1> --- <h6></h6>
+--> used inside the body tag
+-->for header of our website
+
+3) paragraph <p></p>
+--> for paragraph
+
+4)bold <b></b>
+-->make word bold
+
+5)italicize <i></i>
+-->make word italicize
+
+6)break  <br/>
+-->create new line
+
+7)borizontal rule  <hr/> 
+-->create a straight line across website that's going to help us separate some of our content.
+
+8)big <b></b>
+--> make certain word bigger than others.
+
+9)small <small></small>
+-->make certain word small than others.
+
+10)subscript <sub></sub>
+
+11)superscript  <sup></sup>
+
+12)Style & color
+--> Style="sdnckdncd"
